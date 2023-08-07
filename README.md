@@ -6,7 +6,7 @@
 /users/:id -> See User
 /users/logout -> Logout
 /users/edit -> Edit MY Profile
-/users/delete -> Delete MY Profile
+/users/remove -> Delete MY Profile
 
 /videos/:id -> View Video
 /videos/:id/edit -> Edit Video
